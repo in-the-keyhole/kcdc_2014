@@ -1,6 +1,7 @@
 kcdc_2014
 =========
-
+[test](
+https://github.com/in-the-keyhole/kcdc_2014/blob/master/kcdc_2014/Debugging%20JavaScript/Advanced%20JavaScript%20Debugging%20Techniques%20for%20Agile%20Teams.pdf)
 KCDC 2014
 
 Presentation resources from the Keyhole Software team members presenting at the [Kansas City Developer Conference](http://www.kcdc.info/) May 15-17, 2014.
