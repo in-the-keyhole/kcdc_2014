@@ -4,8 +4,6 @@ KCDC 2014
 
 Presentation resources from the Keyhole Software team members presenting at the [Kansas City Developer Conference](http://www.kcdc.info/) May 15-17, 2014.
 
-All will be posted week of May 12, 2014.
-
 ##Keyhole Presenter Schedules##
 * Grunt 101 - Friday, May 16, 2014 at 9:40 a.m. - Mark Determan
 * Java RESTful End Point Frameworks to Support the Shift to HTML5 SPA - Friday, May 16, 2014 at 9:40 a.m. - Adrienne Gessler
